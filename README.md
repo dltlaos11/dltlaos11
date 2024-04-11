@@ -2,6 +2,6 @@
 
 <div align=center>
 
-[![Hits](https://hits.sh/github.com/dltlaos11.svg?view=today-total&label=F5&color=ff00b7&logo=openzfs)](https://hits.sh/github.com/dltlaos11/)
+[![Hits](https://hits.sh/github.com/dltlaos11.svg?view=today-total&label=F5&extraCount=1&color=d80d43&logo=openzfs)](https://hits.sh/github.com/dltlaos11/)
 
 </div>

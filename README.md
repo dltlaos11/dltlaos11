@@ -2,7 +2,7 @@
 
 <div align=center>
 
-[![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdltlaos11&label=F5&icon=sunglasses&color=%23800080)](https://hitscounter.dev)
+[![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdltlaos11&label=F5&icon=sunglasses&color=%23800080&tz=Asia%2FSeoul)](https://hitscounter.dev)
 
 </div>
 

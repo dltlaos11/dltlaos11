@@ -2,7 +2,7 @@
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdltlaos11&count_bg=%23555555&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23FF00C1&title=F5&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdltlaos11&label=F5&icon=sunglasses&color=%23FF00C1)](https://hitscounter.dev)
 
 </div>
 
